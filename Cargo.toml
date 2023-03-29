@@ -1,0 +1,13 @@
+[workspace]
+
+members = [
+    "mitm_proxy",
+    "proxyapi",
+    "requests_editor"
+]
+
+
+
+
+
+
